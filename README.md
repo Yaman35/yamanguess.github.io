@@ -1,2 +1,1 @@
-# yamanguess.github.io
-Guess The Number
+https://yaman35.github.io/yamanguess.github.io/
